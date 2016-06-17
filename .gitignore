@@ -1,0 +1,7 @@
+# Temporary files from emacs
+*~
+
+# For solid models using freecad: http://www.freecadweb.org/
+# Backup files
+*.fcstd1
+
