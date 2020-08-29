@@ -1,1 +1,1 @@
-# freecad submodule of [ntpserver](https://github.com/dcsun88/ntpserver)
+# freecad submodule of [ntpserver](https://github.com/dsun7c4/ntpserver)
